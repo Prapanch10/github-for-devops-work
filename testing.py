@@ -1,0 +1,1 @@
+print("hello desto, kay haal chall, kasie hai sab log?")
