@@ -1,0 +1,26 @@
+Id CommandLine
+  -- -----------
+ try { . "d:\Visual code\Microsoft VS Code\resources\app\...
+ & "C:/Program Files/Python313/python.exe" "c:/Users/Prap...
+ ls -l
+ ls
+ git init
+ dir -a
+ dir
+ git status
+ git status
+ dir
+ clear
+ git status
+ git add testing.py
+ dir
+ git status
+ git commit -m " added testing files "
+ git status
+ rm testing.py
+ ls
+ git status
+ get restore testing.py
+ git restore testing.py
+ ls
+ clear
